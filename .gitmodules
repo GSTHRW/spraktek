@@ -1,0 +1,9 @@
+[submodule "edan20"]
+	path = edan20
+	url = git@github.com:pnugues/edan20.git
+[submodule "pnlp"]
+	path = pnlp
+	url = git@github.com:pnugues/pnlp.git
+[submodule "ilppp"]
+	path = ilppp
+	url = git@github.com:pnugues/ilppp.git
